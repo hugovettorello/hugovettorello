@@ -9,7 +9,6 @@
 
 [![Hugo Vettorello's GitHub stats](https://github-readme-stats.vercel.app/api?username=HugoVettorello&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Hugo Vettorello's GitHub stats](https://github-readme-stats.vercel.app/api?username=HugoVettorello&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Technologies I use in my daily life 
 ### Tecnologias que eu uso no meu dia a dia - 🇧🇷
@@ -28,7 +27,7 @@
 
 <div style="display: inline_block"></br/>
     <img align="center" alt="material ui" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">
-    <img align="center" alt="bootstrap" src="    https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+    <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
     <img align="center" alt="styled-components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
    
 </div>
