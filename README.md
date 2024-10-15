@@ -2,8 +2,15 @@
 ### Hi there, I'm Hugo Vettorello. 👋
 #### Olá, eu sou o Hugo Vettorello. 👋 - 🇧🇷
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-vettorello-944777240/)
-[![Blog](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.linkedin.com/in/hugo-vettorello-944777240/)
+<div>
+    <a href="https://www.linkedin.com/in/hugo-vettorello-944777240/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
+    </a>
+    <a href="https://www.linkedin.com/in/hugo-vettorello-944777240/" target="_blank">
+        <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Blog">
+    </a>
+</div>
+
 
 [![Hugo Vettorello's GitHub stats](https://github-readme-stats.vercel.app/api?username=HugoVettorello&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -24,7 +31,7 @@
 
 <div style="display: inline_block"></br/>
     <img align="center" alt="material ui" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">
-    <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+    <img align="center" alt="bootstrap" src="    https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
     <img align="center" alt="styled-components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
    
 </div>
