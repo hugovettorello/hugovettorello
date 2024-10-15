@@ -2,14 +2,16 @@
 ### Hi there, I'm Hugo Vettorello. 👋
 #### Olá, eu sou o Hugo Vettorello. 👋 - 🇧🇷
 
-<div>
+
+<div style="display: flex">
     <a href="https://www.linkedin.com/in/hugo-vettorello-944777240/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
     </a>
-    <a href="https://www.linkedin.com/in/hugo-vettorello-944777240/" target="_blank">
-        <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Blog">
-    </a>
-</div>
+    <div>
+        <a href="https://www.linkedin.com/in/hugo-vettorello-944777240/" target="_blank">
+            <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Blog">
+        </a>
+    </div>
 
 
 [![Hugo Vettorello's GitHub stats](https://github-readme-stats.vercel.app/api?username=HugoVettorello&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
