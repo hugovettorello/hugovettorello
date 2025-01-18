@@ -5,7 +5,7 @@
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-vettorello-944777240/)
-[![Blog](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.linkedin.com/in/hugo-vettorello-944777240/)
+
 
 [![Hugo Vettorello's GitHub stats](https://github-readme-stats.vercel.app/api?username=HugoVettorello&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
